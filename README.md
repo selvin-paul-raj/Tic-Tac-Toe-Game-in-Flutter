@@ -16,7 +16,22 @@ flutter pub get
 ```sh
 $ flutter build apk 
 ```
-
+4. now build your Web App using following command:
+```sh
+$ flutter build web
+```
+5. now build your IOS App using following command:
+```sh
+$ flutter build ios
+```
+6. now build your Linux App using following command:
+```sh
+$ flutter build linux
+```
+7. now build your Windows App using following command:
+```sh
+$ flutter build windows
+```
 ## Prerequisites
 
 - Flutter SDK
